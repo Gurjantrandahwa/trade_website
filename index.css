@@ -1027,3 +1027,8 @@ progress::-webkit-progress-bar {
     height: 30px;
 }
 /*Animations*/
+button:hover{
+    background: black;
+    color: white;
+    transition: .2s ease-in-out;
+}
