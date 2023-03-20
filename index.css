@@ -84,6 +84,7 @@ button {
     background: lightgray;
     border-radius: 4px;
     height: 175px;
+    z-index: 1;
 }
 
 .navbar-item:hover .dropdown-menu {
